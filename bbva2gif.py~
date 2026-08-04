@@ -639,7 +639,7 @@ def main():
         print(f"Nombre de archivo de salida no especificado. Usando: '{
               output_filename}'")
 
-    # --- Pasos principales de la conversión ---
+    # --- Pasos Principales de la Conversión ---
 
     # 1. Encontrar la fila de cabecera
     print(f"\n1. Buscando cabecera en '{args.excel_file}'...")
